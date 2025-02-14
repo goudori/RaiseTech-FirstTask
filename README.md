@@ -30,7 +30,7 @@
 
 ### 🔢1.計算プログラムの結果　
 
-[計算プログラム正常結果]https://github.com/user-attachments/assets/36053d62-2f0d-4f66-a9f3-bde6f79bd570
+[計算プログラム正常結果]https://github.com/user-attachments/assets/54edaeeb-5969-48d2-96aa-403fe0678428
 
 
 [計算プログラムの異常結果]https://github.com/user-attachments/assets/ab32956c-64a2-4336-8678-20580917fbdf
