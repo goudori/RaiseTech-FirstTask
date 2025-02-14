@@ -49,7 +49,8 @@ public class Students {
             System.out.println("追加した学生の点数を入力してください");
             int studentScore = scanner.nextInt();
             studentMapList.put(studentName, studentScore);
-            System.out.println("追加したが学生は" + studentName + "で、" + studentScore + "点");
+            System.out.println(
+                "追加した学生は" + studentName + "で、" + "点数は" + studentScore + "点");
             System.out.println("追加した学生を含めた学生リストは" + studentMapList);
           }
 
