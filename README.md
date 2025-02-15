@@ -44,7 +44,13 @@
 
 
 
-[計算プログラムの異常結果]![スクリーンショット 2025-02-15 181734](https://github.com/user-attachments/assets/0bf83683-b8d4-4e62-b71c-237bceb1b098)
+[計算プログラムの異常結果]
+
+
+
+
+
+![スクリーンショット 2025-02-15 181734](https://github.com/user-attachments/assets/0bf83683-b8d4-4e62-b71c-237bceb1b098)
 
 
 
