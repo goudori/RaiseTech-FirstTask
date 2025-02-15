@@ -35,7 +35,6 @@
 [計算プログラム正常結果]![スクリーンショット 2025-02-15 183929](https://github.com/user-attachments/assets/209775a2-0cc7-4424-96c5-d42a6492a54a)
 
 
-
 [計算プログラムの異常結果]![スクリーンショット 2025-02-15 181734](https://github.com/user-attachments/assets/0bf83683-b8d4-4e62-b71c-237bceb1b098)
 
 
