@@ -11,9 +11,7 @@ public class Calculator {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 
-    boolean isContinue = true; //計算を続ける
-
-    while (isContinue) {
+    while (true){
 
       try {
 
@@ -71,7 +69,7 @@ public class Calculator {
       char response = scanner.next().charAt(0);
 
       if (response == 'n' || response == 'N') {
-        isContinue = false; //計算を終了する(while文を抜ける)
+        break;
       }
     }
   }

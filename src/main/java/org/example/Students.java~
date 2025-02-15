@@ -21,13 +21,13 @@ public class Students {
 
     Scanner scanner = new Scanner(System.in);
 
-
+    boolean isContinue = true; //学生情報を継続
 
     Map<String, Integer> studentMapList = new HashMap<>(
         Map.of("田中", 100, "劉備", 85, "花子", 77, "めい", 45, "長次郎", 55, "きみこ", 66, "James",
             98)); // 現在の学生と学生の点数
 
-    while (true) {
+    while (isContinue) {
       try {
         System.out.println("現在の学生と学生の点数は" + studentMapList);
 
@@ -93,7 +93,7 @@ public class Students {
 
           case "exit" -> { //終了
             System.out.println("終了します。");
-            System.exit(0);
+            isContinue = false;
           }
 
           default -> System.out.println("不明なコマンドです。");
