@@ -11,7 +11,7 @@ import java.util.Scanner;
  * <p>
  * ※もしMain.javaファイルで実行できない場合は、以下のファイルの中から選択して、実行して下さい。
  * <p>
- * Calculator.java →計算機プログラム Students.java　→学生管理プログラム  PhoneRegex.java →携帯電話番号チェックプログラム
+ * Calculator.java →計算機プログラム StudentManagement.java　→学生管理プログラム  PhoneRegex.java →携帯電話番号チェックプログラム
  */
 public class Main {
 
@@ -30,8 +30,8 @@ public class Main {
             Calculator.main(args);
             break;
 
-          case "student": // Students.java
-            Students.main(args);
+          case "student": // StudentManagement.java
+            StudentManagement.main(args);
             break;
 
           case "phone": // PhoneRegex.java
